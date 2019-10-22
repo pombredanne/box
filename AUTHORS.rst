@@ -17,6 +17,7 @@ Code contributions:
 - Stretch (str3tch)
 - (pwwang)
 - Harun Tuncay (haruntuncay)
+- Jeremiah Lowin (jlowin)
 
 Suggestions and bug reporting:
 
@@ -46,7 +47,6 @@ Suggestions and bug reporting:
 - (deluxghost)
 - Nikolay Stanishev (nikolaystanishev)
 - Craig Quiter (crizCraig)
-- Jeremiah Lowin (jlowin)
 - Michael Stella (alertedsnake)
 - (FunkyLoveCow)
 - Kevin Cross (kevinhcross)
