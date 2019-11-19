@@ -51,3 +51,5 @@ Suggestions and bug reporting:
 - (FunkyLoveCow)
 - Kevin Cross (kevinhcross)
 - (Patrock)
+- Tim Gates (timgates42)
+- (iordanivanov)
