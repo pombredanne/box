@@ -436,7 +436,9 @@ class TestBox:
         bx2.Key_2 = 4
         assert bx2["Key 2"] == 4
 
+    @pytest.mark.skip(reason="takes too long")
     def test_functional_hearthstone_data(self):
+        pytest.skip()
         hearth = Box.from_json(filename=data_hearthstone,
                                conversion_box=True,
                                camel_killer_box=True,
@@ -793,3 +795,8 @@ class TestBox:
         c = Box(d=2)
         assert b + c == Box(c=1, d=2)
 
+    def test_type_recast(self):
+        b = Box(id='6', box_recast={'id': int})
+        assert isinstance(b.id, int)
+        with pytest.raises(ValueError):
+            b['sub_box'] = {'id': 'bad_id'}
