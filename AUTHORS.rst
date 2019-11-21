@@ -18,6 +18,7 @@ Code contributions:
 - (pwwang)
 - Harun Tuncay (haruntuncay)
 - Jeremiah Lowin (jlowin)
+- (jandelgado)
 
 Suggestions and bug reporting:
 
